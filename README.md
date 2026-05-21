@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @intentwisedata
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python data scraping and analysis of ecommerce stores
+- 👋 Hi, I’m @educraftai
+- 👀 I’m interested in creating education digital content 
+- 🌱 I’m currently learning and using ai tools to give them a brain usinv specific teaching philosophy 
+- 💞️ I’m looking to collaborate, to use ai and teaching philosophy to create the content which can solve the pain learningng of the students in their learning path
 - 📫 How to reach me dr.mnasirr@gmail.com
 
 <!---
